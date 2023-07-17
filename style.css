@@ -1,0 +1,98 @@
+                *body {
+                    margin: 0;
+                    padding: 0;
+                    box-sizing: border-box;
+                    font-family: 'Roboto', sans-serif;
+                    background: aliceblue;
+                    width: 100vh;
+                    height: 100vh;
+                }
+                
+                h2 {
+                    font-size: 25px;
+                    font-weight: 700;
+                    padding-left: 40%;
+                    color: darkorange;
+                }
+                
+                h3 {
+                    margin-top: 13%;
+                    padding-left: 410px;
+                    font-size: 30px;
+                    letter-spacing: 1px;
+                    line-height: 50px;
+                }
+                
+                h4 {
+                    padding-left: 48%;
+                    margin-top: 10px;
+                    font-size: 25px;
+                }
+                
+                p {
+                    margin-top: 5%;
+                    padding-left: 24%;
+                    color: darkblue;
+                    font-weight: 800;
+                }
+                
+                .container2 ul {
+                    float: right;
+                    list-style: none;
+                    margin: 5%;
+                }
+                
+                .container2 ul li {
+                    display: inline-block;
+                }
+                
+                .container2 ul li a {
+                    text-decoration: none;
+                    color: black;
+                    padding: 5px 20px;
+                    padding-right: 80px;
+                    border: 2px solid black;
+                    transition: 0.6s ease;
+                }
+                
+                .container2 ul li a:hover {
+                    background-color: black;
+                    color: lightcoral;
+                }
+                
+                .container3 {
+                    margin-top: 10%;
+                    padding-left: 47%;
+                    font-size: 20px;
+                }
+                
+                .container4 ol {
+                    float: right;
+                    list-style: none;
+                    margin-top: 3%;
+                }
+                
+                .container4 ol li {
+                    display: inline-block;
+                }
+                
+                .container4 ol li a {
+                    text-decoration: none;
+                    color: black;
+                    padding: 5px 20px;
+                    padding-right: 30px;
+                    border: 2px solid black;
+                    transition: 0.6s ease;
+                }
+                
+                .container4 ol li a:hover {
+                    background-color: darkslategray;
+                    color: lightskyblue;
+                }
+                
+                footer {
+                    margin-top: 15%;
+                    font-size: 35px;
+                    padding-left: 43%;
+                    color: crimson;
+                }
